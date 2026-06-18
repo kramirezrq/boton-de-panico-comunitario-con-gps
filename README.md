@@ -57,7 +57,7 @@ Pico W
 └── GP14           ──► Baliza LED (+ resistencia 330Ω)
 ```
 
-> El diagrama detallado en imagen se encuentra en `hardware/diagrama_conexiones.png`.
+> El diagrama detallado en imagen se encuentra en (https://wokwi.com/projects/467182323124193281).
 
 ---
 
