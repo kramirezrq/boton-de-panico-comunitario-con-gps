@@ -9,7 +9,7 @@ Sistema embebido IoT basado en Raspberry Pi Pico W que permite a los ciudadanos 
 | Sergio Giovanni Jacobo Jauregui | Por definir |
 | Leo Junior Rimachi Aroni | Por definir |
 | Karen Noelia Ramirez Quevedo | Por definir |
-| [Integrante 4] | Por definir |
+| Jean Pierre Alexander Levano Martel | Por definir |
 
 **Curso:** Arquitectura del Computador I — Código 16953  
 **Semestre:** 2026-1  
